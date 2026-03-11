@@ -329,7 +329,7 @@ Photographers, studios, and media managers deal with thousands of files every sh
 
 <br/>
 
-Download from [Releases](https://github.com/Fadellab/photoquick-pro/releases) · Double-click to run · No Python needed · No installation required.
+Download from [Releases](https://github.com/Fadellab/photoquick-pro/releases) · Double-click to run · No Python needed · installation required.
 
 > Keep `icon.ico`, `icon.png`, and `i.png` in the same directory as the `.exe`.
 
