@@ -107,3 +107,98 @@
 - **Threading:** Multi-threaded search to prevent UI freezing
 
 ### File Structure
+PhotoQuick-Pro/
+├── PhotoQuick-Pro.exe    # Main executable
+├── icon.ico              # Application icon (if available)
+├── icon.png              # Fallback icon
+├── i.png                 # Splash screen image
+└── PhotoQuick_Export/    # Generated output folder
+
+
+### Supported File Formats
+| Type | Extensions |
+|------|------------|
+| **Images** | `.jpg`, `.jpeg`, `.png`, `.bmp`, `.webp`, `.heic` |
+| **RAW** | `.cr2` (Canon), `.nef` (Nikon), `.arw` (Sony), `.dng` (Adobe), `.orf` (Olympus) |
+| **Video** | `.mp4`, `.mov`, `.avi` |
+
+---
+
+## ⚠️ Important Legal Notices & Disclaimers
+
+### Software Disclaimer
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.** By downloading and using PhotoQuick Pro, you acknowledge and agree to the following:
+
+1. **No Warranty:** This software is provided without any guarantees regarding performance, reliability, or fitness for a particular purpose. The entire risk as to the quality and performance of the program is with you.
+
+2. **Data Safety:** While PhotoQuick Pro only **copies** files (never moves or deletes), you are strongly advised to maintain backups of your original photo libraries. The authors assume no responsibility for data loss, corruption, or unintended file operations.
+
+3. **Filename Matching Limitation:** The software performs partial string matching on filenames. It may match unintended files if your ID numbers appear within other filenames (e.g., searching for "123" will match "1234", "4123", "12345"). Always verify exported files before delivery.
+
+4. **System Compatibility:** This software is designed for Windows 10/11. Operation on other platforms or Windows versions is not guaranteed.
+
+5. **Resource Usage:** Large photo libraries (10,000+ files) may cause temporary high CPU/disk usage during scanning. Ensure adequate system resources before processing.
+
+### Copyright & Intellectual Property
+- **Copyright © 2022-2026 Mohammed Fadel. All Rights Reserved.**
+- PhotoQuick Pro and its associated code, design, and documentation are protected by copyright law.
+- The name "PhotoQuick", "PhotoQuick Pro", and the application icon are trademarks of the author.
+
+### Third-Party Licenses
+This software uses the following open-source components under their respective licenses:
+
+| Component | License | Purpose |
+|-----------|---------|---------|
+| CustomTkinter | MIT License | Modern GUI framework |
+| Pillow (PIL) | HPND License | Image processing |
+| PyInstaller | GPL-2.0+ with exception | Executable building |
+
+Full license texts for third-party components are available in the `THIRD_PARTY_LICENSES.txt` file included with the distribution.
+
+### Privacy Policy
+**PhotoQuick Pro is 100% offline software.** 
+- No internet connection required for core functionality
+- No user data, photo metadata, or usage statistics are collected
+- No telemetry, analytics, or tracking mechanisms are implemented
+- Your photo files remain exclusively on your local machine
+- The only network activity is optional: clicking "Visit Official Website" or "Contact via WhatsApp" buttons opens your default browser
+
+### Limitation of Liability
+**IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR DISTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY** — whether in an action of contract, tort, or otherwise — arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+This includes but is not limited to:
+- Loss of profits, data, or business interruption
+- Damage to computer systems or storage devices
+- Client dissatisfaction due to incorrect file matching
+- Time lost due to software malfunction
+
+### User Responsibilities
+By using this software, you agree to:
+1. Verify all exported files before delivering to clients
+2. Maintain secure backups of your original photo libraries
+3. Use the software in compliance with all applicable laws
+4. Not attempt to reverse engineer, decompile, or modify the executable
+5. Not redistribute modified versions without explicit permission
+
+### DMCA & Copyright Compliance
+PhotoQuick Pro is designed to help photographers manage their own intellectual property. Users are solely responsible for ensuring they have legal rights to copy, distribute, or modify any files processed through this software. The developers assume no liability for copyright infringement or misuse of the software to violate third-party rights.
+
+---
+
+## 🤝 Contributing
+
+This tool was built to solve a real photographer's workflow problem in Beirut, Lebanon. Community contributions are welcome!
+
+### How to Contribute
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Development Setup
+```bash
+git clone https://github.com/fadellab/PhotoQuick-Pro.git
+cd PhotoQuick-Pro
+pip install -r requirements.txt
+python PhotoQuick.py
