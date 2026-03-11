@@ -315,7 +315,7 @@ Photographers, studios, and media managers deal with thousands of files every sh
 
 <br/>
 
-### &nbsp; 🪟 &nbsp; Option A — Windows EXE &nbsp;·&nbsp; *No setup. Just run.*
+### &nbsp; 🪟 &nbsp; Option A — Windows EXE &nbsp;·&nbsp; * setup. and run.*
 
 <br/>
 
