@@ -1,147 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=PhotoQuick&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Precision%20Asset%20Fetcher%20%E2%80%94%20Find.%20Extract.%20Done.&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a2e,60:003344,100:00E5FF&height=220&section=header&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=72&duration=2000&pause=99999&color=00E5FF&center=true&vCenter=true&width=700&height=100&lines=PhotoQuick" alt="PhotoQuick" />
 
 <br/>
 
-[![Release](https://img.shields.io/badge/⚡%20Release-v1.0-00E5FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Fadellab/photoquick-pro/releases)
-[![License](https://img.shields.io/badge/📄%20License-MIT-brightgreen?style=for-the-badge&labelColor=0a0a0a)](LICENSE)
-[![Free](https://img.shields.io/badge/💸%20Price-Free%20Forever-gold?style=for-the-badge&labelColor=0a0a0a)](#-free--open-source)
-[![Open Source](https://img.shields.io/badge/❤️%20Open-Source-ff69b4?style=for-the-badge&labelColor=0a0a0a)](#-free--open-source)
-[![Python](https://img.shields.io/badge/Python-3.8+-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a)](https://python.org)
-[![Platform](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0a0a)](https://github.com/Fadellab/photoquick-pro/releases)
-[![Stars](https://img.shields.io/github/stars/Fadellab/photoquick-pro?style=for-the-badge&logo=github&color=yellow&labelColor=0a0a0a)](https://github.com/Fadellab/photoquick-pro/stargazers)
+<h3>⚡ &nbsp; Precision Asset Fetcher for Photographers</h3>
 
 <br/>
 
-> **"You have thousands of photos. You have a list of IDs. You need them now."**
-> 
-> PhotoQuick scans, matches, and extracts your files in seconds — zero manual hunting, zero duplicates.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Find+any+photo+in+seconds.;Extract+by+ID+or+keyword.;Zero+duplicates.+Always+free.;Open+Source+%E2%80%94+Built+in+Lebanon+%F0%9F%87%B1%F0%9F%87%A7" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Release](https://img.shields.io/badge/-%E2%9A%A1%20v1.0%20RELEASE-00E5FF?style=for-the-badge&labelColor=000000&logoColor=00E5FF)](https://github.com/Fadellab/photoquick-pro/releases)
+[![MIT License](https://img.shields.io/badge/-MIT%20LICENSE-00FF88?style=for-the-badge&labelColor=000000)](LICENSE)
+[![Free Forever](https://img.shields.io/badge/-FREE%20FOREVER-FFD700?style=for-the-badge&labelColor=000000)](https://github.com/Fadellab/photoquick-pro)
+[![Open Source](https://img.shields.io/badge/-OPEN%20SOURCE-FF6B9D?style=for-the-badge&labelColor=000000)](https://github.com/Fadellab/photoquick-pro)
 
 <br/>
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Windows](https://img.shields.io/badge/Windows-Supported-0078D4?style=flat-square&logo=windows)](https://github.com/Fadellab/photoquick-pro/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Fadellab/photoquick-pro?style=flat-square&logo=github&color=yellow)](https://github.com/Fadellab/photoquick-pro/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Fadellab/photoquick-pro?style=flat-square&logo=github&color=orange)](https://github.com/Fadellab/photoquick-pro/forks)
 
 </div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   You have 10,000 photos.  You have a list of IDs.          ║
+║   You need them now.                                         ║
+║                                                              ║
+║   PhotoQuick finds every match and exports them             ║
+║   in seconds — clean, fast, zero duplicates.                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## ✦ &nbsp; Quick Navigation &nbsp; ✦
+### 〔 &nbsp; N A V I G A T I O N &nbsp; 〕
 
-[🎯 What It Does](#-what-it-does) · [🖥️ Interface](#%EF%B8%8F-the-interface) · [🔧 How It Works](#-how-the-fetcher-works) · [🚀 Install](#-installation) · [⚖️ License](#%EF%B8%8F-free--open-source) · [👤 Author](#-author)
+[`⚡ What It Does`](#-what-it-does) &nbsp;·&nbsp; [`🖥️ Interface`](#%EF%B8%8F-interface) &nbsp;·&nbsp; [`🎨 Formats`](#-supported-formats) &nbsp;·&nbsp; [`🔧 Engine`](#-how-the-engine-works) &nbsp;·&nbsp; [`🚀 Install`](#-installation) &nbsp;·&nbsp; [`⚖️ License`](#%EF%B8%8F-free--open-source) &nbsp;·&nbsp; [`👤 Author`](#-author)
 
 </div>
 
 ---
 
-## 🎯 What It Does
+<br/>
 
-PhotoQuick is a **professional-grade desktop utility** built for photographers and media managers.
+## ⚡ What It Does
 
-Give it a list of file IDs or keywords. Point it at a folder. It will find every matching photo, RAW file, or video and copy them all into a clean `PhotoQuick_Export/` folder — automatically, instantly, with **no duplicates ever**.
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJhOGEwNHZucWFzYWI1bTBxMGdrOTlvNHZha3d3ZGIzZDdlczc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Whether you're recovering specific shots from a 10,000-image card dump or filtering a client delivery by reference number, PhotoQuick gets it done in seconds.
+**PhotoQuick** is a professional desktop utility built for photographers and media managers who work with large volumes of files.
+
+- 🔍 &nbsp; Paste a list of file IDs or keywords
+- 📁 &nbsp; Point it at any folder on your machine
+- ⚡ &nbsp; It scans, matches, and exports everything instantly
+- 🛡️ &nbsp; Smart duplicate guard — never copies the same file twice
+
+Whether you're recovering specific shots from a card dump, or filtering a client delivery by reference number — **PhotoQuick does it in seconds.**
+
+<br clear="right"/>
 
 <br/>
 
 ---
 
-## 🖥️ The Interface
+## 🖥️ Interface
 
-A clean, three-column layout. No menus, no complexity. Just the three things you need:
+> Clean. Dark. Minimal. Three panels — nothing more, nothing less.
+
+<br/>
+
+<div align="center">
 
 ```
-╔══════════════════╦══════════════════╦══════════════════╗
-║  1. INPUT        ║  2. DIRECTORY    ║  3. STATUS       ║
-║  SEQUENCE        ║                  ║                  ║
-║                  ║  ┌────────────┐  ║   ◉  READY       ║
-║  DSC_0042        ║  │  SELECT    │  ║  ──────────────  ║
-║  IMG_1187        ║  │  FOLDER    │  ║                  ║
-║  CLIENT_009      ║  └────────────┘  ║  ┌────────────┐  ║
-║  WEDDING_33      ║                  ║  │   START    │  ║
-║  ...             ║  /Volumes/Card/  ║  │ EXTRACTION │  ║
-║                  ║  Shoot_2026/     ║  └────────────┘  ║
-╚══════════════════╩══════════════════╩══════════════════╝
+ ╭──────────────────────────────────────────────────────────────────╮
+ │  ▓  PhotoQuick                              [Dark] [Light] [About]│
+ ├────────────────────┬─────────────────────┬───────────────────────┤
+ │                    │                     │                       │
+ │  1. INPUT          │  2. DIRECTORY       │  3. STATUS            │
+ │  SEQUENCE          │                     │                       │
+ │  ┄┄┄┄┄┄┄┄┄┄┄┄     │  ╭───────────────╮  │   ◉  R E A D Y       │
+ │                    │  │  SELECT       │  │                       │
+ │  DSC_0042          │  │  FOLDER       │  │  ▓▓▓▓▓▓░░░░░░░░░░░   │
+ │  IMG_1187          │  ╰───────────────╯  │                       │
+ │  CLIENT_009        │                     │  ╭───────────────────╮│
+ │  WEDDING_33        │  📁 /Volumes/       │  │  START EXTRACTION ││
+ │  SHOOT_2026        │  CardDump/2026/     │  ╰───────────────────╯│
+ │  ...               │                     │                       │
+ │                    │                     │                       │
+ ╰────────────────────┴─────────────────────┴───────────────────────╯
 ```
 
-| Step | Action |
-|:----:|--------|
-| **①** | Paste your asset IDs or keywords — separated by space, comma, or newline |
-| **②** | Browse to the folder that contains your media files |
-| **③** | Hit **START EXTRACTION** and watch matches appear in real time |
+</div>
 
-> 📂 All results are saved to **`PhotoQuick_Export/`** inside your selected folder
+<br/>
+
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp; | Step | What to do |
+|:---:|:---|:---|
+| `①` | **INPUT SEQUENCE** | Paste asset IDs or keywords — space, comma, or newline separated |
+| `②` | **DIRECTORY** | Browse to the folder containing your media |
+| `③` | **START EXTRACTION** | Watch every match appear live in the status panel |
+
+</div>
+
+> 📂 &nbsp; All results are copied to **`PhotoQuick_Export/`** inside your selected folder — automatically created, always clean.
 
 <br/>
 
 ---
 
-## 🎨 Formats Supported
+## 🎨 Supported Formats
+
+<div align="center">
+
+<br/>
+
+| &nbsp; | Category | Extensions |
+|:---:|:---:|:---|
+| 📷 | **Standard Images** | `.jpg` &nbsp; `.jpeg` &nbsp; `.png` &nbsp; `.bmp` &nbsp; `.webp` &nbsp; `.heic` |
+| 🎞️ | **RAW Camera Files** | `.cr2` &nbsp; `.nef` &nbsp; `.arw` &nbsp; `.dng` &nbsp; `.orf` |
+| 🎬 | **Video** | `.mp4` &nbsp; `.mov` &nbsp; `.avi` |
+
+<br/>
 
 ```
-┌───────────────┬──────────────────────────────────────────────┐
-│  📷 Images    │  .jpg  .jpeg  .png  .bmp  .webp  .heic       │
-│  🎞️ RAW       │  .cr2  .nef  .arw  .dng  .orf               │
-│  🎬 Video     │  .mp4  .mov  .avi                            │
-└───────────────┴──────────────────────────────────────────────┘
-                        14 formats total
+  Canon · Nikon · Sony · Adobe DNG · Olympus · All major cameras supported
 ```
+
+</div>
 
 <br/>
 
 ---
 
-## 🔧 How the Fetcher Works
+## 🔧 How the Engine Works
 
-The `SearchEngine` class is the brain of PhotoQuick. This is exactly what runs when you press START:
+> The `SearchEngine` class powers everything behind the scenes.
+
+<br/>
+
+<div align="center">
 
 ```
-  ┌──────────────────────────────────────────┐
-  │         Your ID Input                    │
-  │  "DSC_042, IMG_1187, CLIENT_09 ..."      │
-  └────────────────────┬─────────────────────┘
-                       │
-                       ▼
-         ┌─────────────────────────┐
-         │   Scan Target Directory  │
-         │   (all 14 valid formats) │
-         └─────────────┬───────────┘
-                       │
-          ┌────────────▼────────────┐
-          │  Does filename contain  │
-          │     any input ID?       │
-          └──────┬──────────┬───────┘
-                NO           YES
-                 │            │
-              (skip)          ▼
-                    ┌─────────────────────┐
-                    │  Already exists in  │
-                    │  PhotoQuick_Export? │
-                    └────┬───────────┬────┘
-                        YES          NO
-                         │            │
-                      (skip)          ▼
-                              ┌──────────────────┐
-                              │  shutil.copy2()  │
-                              │  → Export Folder │
-                              └────────┬─────────┘
-                                       │
-                                       ▼
-                              ┌──────────────────┐
-                              │  Mark source in  │
-                              │  tracking set    │
-                              └────────┬─────────┘
-                                       │
-                                       ▼
-                              Status: "FOUND: file.jpg"
+                    ┌─────────────────────────────┐
+                    │       YOUR ID INPUT          │
+                    │  "DSC_042  IMG_1187  ..."    │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │      SCAN DIRECTORY           │
+                    │   All 14 valid formats only   │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │  Does filename contain ID?    │
+                    └──────┬────────────────┬───────┘
+                          NO               YES
+                           │                │
+                        (skip)              ▼
+                                ┌───────────────────────┐
+                                │  Already in Export/?  │
+                                └────────┬──────────┬───┘
+                                        YES         NO
+                                         │           │
+                                      (skip)         ▼
+                                            ┌────────────────┐
+                                            │ shutil.copy2() │
+                                            │ → Export Folder│
+                                            └───────┬────────┘
+                                                    │
+                                                    ▼
+                                            ┌────────────────┐
+                                            │  Track source  │
+                                            │  in memory set │
+                                            └───────┬────────┘
+                                                    │
+                                                    ▼
+                                         ✅  FOUND: file.jpg
 ```
 
-**🛡️ Duplicate Guard — Two Layers of Protection:**
+</div>
 
-- **Layer 1** — Checks if the file name already exists in the export folder
-- **Layer 2** — Tracks source paths in memory, prevents re-copying even if names differ
+<br/>
 
-**⚡ Threaded Engine** — The scan runs on a background daemon thread. The UI stays fully responsive no matter how large the directory is.
+<div align="center">
+
+```
+ ┌─────────────────────────────────────────────────────────┐
+ │                 🛡️  DUPLICATE GUARD                      │
+ │                                                         │
+ │  Layer 1 → Checks output folder by filename             │
+ │  Layer 2 → Tracks every source path in a memory set     │
+ │                                                         │
+ │  Result: The same file is NEVER copied twice.           │
+ └─────────────────────────────────────────────────────────┘
+
+ ┌─────────────────────────────────────────────────────────┐
+ │                 ⚡  THREADED ENGINE                      │
+ │                                                         │
+ │  The scan runs on a background daemon thread.           │
+ │  The UI stays live and responsive at all times.         │
+ │  No freezing. No hanging. No matter the folder size.    │
+ └─────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <br/>
 
@@ -149,52 +232,62 @@ The `SearchEngine` class is the brain of PhotoQuick. This is exactly what runs w
 
 ## 🚀 Installation
 
-### 🪟 Option A — Windows EXE *(Recommended — No Python needed)*
+<br/>
+
+### &nbsp; 🪟 &nbsp; Option A &nbsp;—&nbsp; Windows EXE &nbsp; *(Zero setup — just click and run)*
 
 <div align="center">
 
-[![Download EXE](https://img.shields.io/badge/⬇️%20Download-PhotoQuick%20v1.0.exe-00E5FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Fadellab/photoquick-pro/releases)
+<br/>
+
+[![DOWNLOAD PHOTOQUICK v1.0](https://img.shields.io/badge/⬇%EF%B8%8F%20%20DOWNLOAD%20PHOTOQUICK%20v1.0%20.exe-00E5FF?style=for-the-badge&labelColor=000000&logoColor=00E5FF)](https://github.com/Fadellab/photoquick-pro/releases)
+
+<br/>
 
 </div>
 
-Download from the [Releases page](https://github.com/Fadellab/photoquick-pro/releases), run the `.exe`. No installation, no setup.
+No Python, no terminal, no setup. Download the `.exe` from the [Releases page](https://github.com/Fadellab/photoquick-pro/releases) and run it.
 
-> **Note:** Keep `icon.ico` and `i.png` in the same folder as the `.exe` if running outside the packaged build.
+> **Required alongside the `.exe`:** `icon.ico` &nbsp; `icon.png` &nbsp; `i.png`
+
+<br/>
 
 ---
 
-### 🐍 Option B — Run from Source
+### &nbsp; 🐍 &nbsp; Option B &nbsp;—&nbsp; Run from Source
 
 ```bash
-# Clone the repository
+# 1 — Clone
 git clone https://github.com/Fadellab/photoquick-pro.git
 cd photoquick-pro
 
-# Install dependencies
+# 2 — Install
 pip install customtkinter pillow
 
-# Launch the app
+# 3 — Launch
 python PhotoQuick.py
 ```
 
-> Requires **Python 3.8+** · `tkinter` ships with Python by default
+> Python 3.8+ required &nbsp;·&nbsp; `tkinter` is included with Python by default
+
+<br/>
 
 ---
 
-### 🛠️ Option C — Build Your Own EXE
+### &nbsp; 🛠️ &nbsp; Option C &nbsp;—&nbsp; Build Your Own EXE
 
 ```bash
 pip install pyinstaller
 
 pyinstaller --noconfirm --onefile --windowed ^
-  --icon=icon.ico ^
-  --add-data "icon.ico;." ^
-  --add-data "icon.png;." ^
-  --add-data "i.png;." ^
+  --icon=icon.ico                            ^
+  --add-data "icon.ico;."                    ^
+  --add-data "icon.png;."                    ^
+  --add-data "i.png;."                       ^
   PhotoQuick.py
 ```
 
-Compiled binary lands in `dist/`. The app uses `sys._MEIPASS` to locate bundled assets at runtime.
+> Output lands in `dist/` &nbsp;·&nbsp; Uses `sys._MEIPASS` to resolve bundled assets at runtime
 
 <br/>
 
@@ -203,26 +296,32 @@ Compiled binary lands in `dist/`. The app uses `sys._MEIPASS` to locate bundled 
 ## 📁 Project Structure
 
 ```
-photoquick-pro/
-│
-├── 📄  PhotoQuick.py     ← Full application source
-├── 🖼️   i.png             ← Splash screen image
-├── 🔷  icon.ico          ← Windows taskbar icon
-├── 🖼️   icon.png          ← Icon fallback (PNG)
-└── 📋  README.md
+📦 photoquick-pro/
+ ┃
+ ┣ 📄  PhotoQuick.py     ← Complete application source code
+ ┣ 🖼️   i.png             ← Splash screen cover image
+ ┣ 🔷  icon.ico          ← App icon (Windows taskbar & EXE)
+ ┣ 🖼️   icon.png          ← App icon fallback (PNG format)
+ ┗ 📋  README.md         ← You are here
 ```
+
+<br/>
 
 ---
 
 ## 📦 Dependencies
 
-| Package | Role |
-|---|---|
-| `customtkinter` | Modern themed UI framework (dark/light mode) |
-| `Pillow` | Image rendering for splash screen and icons |
-| `tkinter` | Native OS windowing system (built into Python) |
-| `shutil` | File copy engine with metadata preservation |
-| `threading` | Background thread for non-blocking scans |
+<div align="center">
+
+| Package | What it does |
+|:---|:---|
+| `customtkinter` | Modern dark/light themed UI widgets |
+| `Pillow` | Image loading for splash screen and window icons |
+| `tkinter` | Native OS windowing (built into Python) |
+| `shutil` | File copy with full metadata preservation |
+| `threading` | Daemon thread for non-blocking scan engine |
+
+</div>
 
 <br/>
 
@@ -230,62 +329,93 @@ photoquick-pro/
 
 ## ⚖️ Free & Open Source
 
+<br/>
+
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    PhotoQuick is 100% FREE and OPEN SOURCE.                ║
-║                                                            ║
-║    ✅  Free to download, use, and share — forever          ║
-║    ✅  Full source code publicly available on GitHub       ║
-║    ✅  No license fees, no subscriptions, no paywalls      ║
-║    ✅  Modify and adapt for your own projects              ║
-║    ✅  Contributions and pull requests are welcome         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║               ⚡  PhotoQuick is 100% FREE                        ║
+║                  and OPEN SOURCE — Forever.                     ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   ✅   Free to download and use — no cost, ever                  ║
+║   ✅   Full source code public on GitHub                         ║
+║   ✅   No license fees. No subscriptions. No paywalls            ║
+║   ✅   Use it personally, commercially, professionally           ║
+║   ✅   Fork it, modify it, build on top of it                    ║
+║   ✅   Contributions and pull requests are welcome               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-PhotoQuick is released under the **MIT License** — one of the most permissive open-source licenses available. This means:
+<br/>
 
-- ✔ **Use it** personally, commercially, or professionally
-- ✔ **Modify it** — change anything you want in the source
-- ✔ **Distribute it** — share it with anyone, anywhere
-- ✔ **No warranty required** — use at your own discretion
+PhotoQuick is proudly released under the **MIT License** — one of the most open and permissive licenses in software. Here's what that means for you:
 
-The only condition is that the original copyright notice and license text must be included in any copies or distributions.
+<br/>
+
+<div align="center">
+
+| You can... | Condition |
+|:---|:---|
+| ✔ &nbsp; Use it for any purpose | Keep the copyright notice |
+| ✔ &nbsp; Modify the source freely | Keep the license text |
+| ✔ &nbsp; Distribute copies | That's it — no other conditions |
+| ✔ &nbsp; Use it commercially | |
+| ✔ &nbsp; Include it in your own projects | |
+
+</div>
+
+<br/>
 
 ```
-MIT License — Copyright (c) 2022–2026 Mohammed Fadel
+MIT License
+
+Copyright (c) 2022–2026 Mohammed Fadel
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, merge, publish, distribute, and/or sell
-copies of the software, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies.
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ```
 
-> 📄 See the full [`LICENSE`](LICENSE) file in this repository for complete legal text.
+> 📄 &nbsp; Full license in the [`LICENSE`](LICENSE) file in this repository.
 
 <br/>
 
 ---
 
-## 📋 v1.0 — What's Shipped
+## 📋 v1.0 — Release Checklist
 
-| # | Feature | Status |
-|---|---------|:------:|
-| 1 | ID-based asset fetcher with multi-keyword input | ✅ |
-| 2 | Background threaded scan engine (non-blocking UI) | ✅ |
-| 3 | Dual-layer duplicate guard (filename + source path) | ✅ |
-| 4 | Auto-creates `PhotoQuick_Export/` output directory | ✅ |
-| 5 | 14 file formats — images, RAW, video | ✅ |
-| 6 | Real-time status updates during extraction | ✅ |
-| 7 | Animated splash screen with live progress bar | ✅ |
-| 8 | Dark mode / Light mode toggle | ✅ |
-| 9 | About window with contact links | ✅ |
-| 10 | PyInstaller-compatible single `.exe` for Windows | ✅ |
+<div align="center">
+
+| &nbsp; | Feature |
+|:---:|:---|
+| ✅ | ID-based asset fetcher — multi-keyword input |
+| ✅ | Background threaded scan engine (UI never blocks) |
+| ✅ | Dual-layer duplicate guard (filename + source path tracking) |
+| ✅ | Auto-creates `PhotoQuick_Export/` output directory |
+| ✅ | 14 file formats — images, RAW, and video |
+| ✅ | Real-time status label updates during extraction |
+| ✅ | Animated splash screen with live `00E5FF` progress bar |
+| ✅ | Dark mode / Light mode toggle in navbar |
+| ✅ | About window with creator info, website, WhatsApp |
+| ✅ | PyInstaller-compatible — `sys._MEIPASS` resource handling |
+| ✅ | Single `.exe` build — no installation required |
+
+</div>
 
 <br/>
 
@@ -293,34 +423,52 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## 👤 Author
 
+<br/>
+
 <div align="center">
 
 ```
-  ╭────────────────────────────────────────╮
-  │                                        │
-  │   Mohammed Fadel                       │
-  │   Beirut, Lebanon 🇱🇧                  │
-  │                                        │
-  │   Building tools for photographers    │
-  │   since 2022.                          │
-  │                                        │
-  ╰────────────────────────────────────────╯
+  ╭──────────────────────────────────────────────────╮
+  │                                                  │
+  │        Mohammed Fadel                            │
+  │                                                  │
+  │        Photographer's tool builder               │
+  │        Beirut, Lebanon  🇱🇧                      │
+  │        Crafting precision software since 2022    │
+  │                                                  │
+  ╰──────────────────────────────────────────────────╯
 ```
 
-[![Website](https://img.shields.io/badge/🌐%20Website-photoquick.unaux.com-00E5FF?style=for-the-badge&labelColor=0a0a0a)](https://photoquick.unaux.com/)
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a)](https://wa.me/9647884908775)
-[![GitHub](https://img.shields.io/badge/GitHub-Fadellab-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/Fadellab)
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐%20%20photoquick.unaux.com-00E5FF?style=for-the-badge&labelColor=000000)](https://photoquick.unaux.com/)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/💬%20%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/9647884908775)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙%20%20Fadellab-white?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/Fadellab)
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer" width="100%"/>
+```
+  If PhotoQuick saved you an hour of work,
+  a ⭐ star on the repo means the world.
+  It helps the project grow and reach more photographers.
+```
 
-**PhotoQuick** — Open Source · Free Forever · Made with ❤️ in Lebanon · 2022–2026
+<br/>
 
-⭐ If PhotoQuick saved you time, consider starring the repo — it means a lot!
+[![Star this repo](https://img.shields.io/badge/⭐%20%20Star%20this%20Repo-FFD700?style=for-the-badge&labelColor=000000)](https://github.com/Fadellab/photoquick-pro/stargazers)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:003344&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Lebanon&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
