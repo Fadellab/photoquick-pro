@@ -32,7 +32,6 @@
 | ⚡ **3-Second Processing** | What used to take 15-20 minutes now happens instantly |
 | 📋 **Bulk List Support** | Paste hundreds of numbers at once from email/messages |
 | 🔒 **100% Offline** | Your photos never leave your computer. Complete privacy |
-| 🚀 **No Installation** | Portable .exe - run instantly, no setup |
 | 🆓 **Free Forever** | Made for photographers, not for profit |
 
 ---
