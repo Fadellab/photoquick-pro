@@ -106,15 +106,6 @@
 - **Build Tool:** PyInstaller (single executable)
 - **Threading:** Multi-threaded search to prevent UI freezing
 
-### File Structure
-PhotoQuick-Pro/
-├── PhotoQuick-Pro.exe    # Main executable
-├── icon.ico              # Application icon (if available)
-├── icon.png              # Fallback icon
-├── i.png                 # Splash screen image
-└── PhotoQuick_Export/    # Generated output folder
-
-
 ### Supported File Formats
 | Type | Extensions |
 |------|------------|
